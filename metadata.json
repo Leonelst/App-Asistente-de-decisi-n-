@@ -1,0 +1,6 @@
+{
+  "name": "Asistente de decisión",
+  "description": "Una aplicación inteligente para ayudarte a evaluar decisiones complejas mediante listas de pros y contras ponderados, tablas comparativas y análisis FODA generados por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
