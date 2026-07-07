@@ -3,8 +3,7 @@
 > Una aplicación inteligente impulsada por Gemini AI para ayudarte a evaluar decisiones complejas mediante listas de pros y contras ponderados, tablas comparativas y análisis FODA.
 
 <div align="center">
-  <img width="100%" alt="Asistente de Decisión" src= <img width="753" height="579" alt="imagen2026-07-07 024427" />
- />
+  <img src="https://github.com/user-attachments/assets/529c7b49-4ab0-439b-8749-c911b20756ec" alt="Asistente de Decisión" width="100%" />
 </div>
 
 ---
@@ -31,7 +30,6 @@ Tener instalado [Node.js](https://nodejs.org/) (versión 18 o superior recomenda
    ```bash
    git clone [https://github.com/Leonelst/App-Asistente-de-decisi-n-.git](https://github.com/Leonelst/App-Asistente-de-decisi-n-.git)
    cd App-Asistente-de-decisi-n-
-   ```
 
 2. **Instalar las dependencias del proyecto:**
    ```bash
