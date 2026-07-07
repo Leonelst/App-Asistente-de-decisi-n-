@@ -3,7 +3,8 @@
 > Una aplicación inteligente impulsada por Gemini AI para ayudarte a evaluar decisiones complejas mediante listas de pros y contras ponderados, tablas comparativas y análisis FODA.
 
 <div align="center">
-  <img width="100%" alt="Asistente de Decisión" src="https://github.com/user-attachments/assets/529c7b49-4ab0-439b-8749-c911b20756ec" />
+  <img width="100%" alt="Asistente de Decisión" src= <img width="753" height="579" alt="imagen2026-07-07 024427" />
+ />
 </div>
 
 ---
