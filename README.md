@@ -28,8 +28,8 @@ Tener instalado [Node.js](https://nodejs.org/) (versión 18 o superior recomenda
 
 1. **Clonar el repositorio e ingresar a la carpeta:**
    ```bash
-   git clone [https://github.com/Leonelst/App-Asistente-de-decisi-n-.git](https://github.com/Leonelst/App-Asistente-de-decisi-n-.git)
-   cd App-Asistente-de-decisi-n-
+  git clone https://github.com/Leonelst/App-Asistente-de-decisi-n-.git
+cd App-Asistente-de-decisi-n-
 
 2. **Instalar las dependencias del proyecto:**
    ```bash
