@@ -20,6 +20,7 @@ View your app in AI Studio: https://ai.studio/apps/df167647-dd2a-4019-b6a7-be5e8
    `npm run dev`
    
 Herramientas que usa este repositorio:
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
