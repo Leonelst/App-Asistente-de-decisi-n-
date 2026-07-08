@@ -15,8 +15,6 @@
 * **Entorno Seguro:** Configuración protegida mediante variables de entorno para llaves de API.
 * **Interfaz Reactiva:** Estructura ágil y tipado fuerte utilizando Vite y TypeScript.
 
-Visualiza tu aplicación en AI Studio: https://ai.studio/apps/df167647-dd2a-4019-b6a7-be5e89898989b6aa
-
 ---
 
 ## 🛠️ Ejecución Local (Run Locally)
